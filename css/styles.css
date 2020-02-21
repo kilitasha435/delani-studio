@@ -1,5 +1,6 @@
 .part1{
     background-image: url(../img/h_img\ \(copy\).jpg);
+    background-size: cover;
 }
 
 .text-1{
@@ -26,3 +27,21 @@
 .prt{
     text-align: center;
 }
+
+.part6{
+    background-image: url(../img/c_image.jpg);
+    text-align: center;
+    /* opacity: 0.5; */
+   
+}
+#info{ background: transparent;
+    text-align: center;
+}
+#fom{
+    background: transparent;
+    opacity: 0.1;
+}
+.fort{
+    text-align: center;
+}
+
