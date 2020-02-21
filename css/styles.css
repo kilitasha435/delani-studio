@@ -1,11 +1,22 @@
-.head{
-    background-image: url(img/h_img\ \(copy\).jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+.part1{
+    background-image: url(../img/h_img\ \(copy\).jpg);
+}
+
+.text-1{
+    text-align: center;
+   padding: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.part2{
     text-align: center;
 }
 
-.about us {
+.part3{
+    background-image: url(../img/s_image.jpg);
     text-align: center;
-    padding: 50px;
+    padding: 100px;
+    color: white;
 }
+
