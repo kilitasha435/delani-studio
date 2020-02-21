@@ -45,3 +45,8 @@
     text-align: center;
 }
 
+#email,
+#name,
+#textarea{
+    background: transparent;
+}
