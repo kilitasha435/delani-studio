@@ -1,11 +1,13 @@
-$(document).ready(function) {
+$(document).ready(function() {
+    $("#p").click(function(){
     $("#tit1").hide();
     $("#tit2").hide();
     $("#tit3").hide();
     $("#des").hide();
     $("#dev").hide();
-    $("#pro").hide();
-}
+    $("#produ").hide();
+});
+});
 
 
 $(document).ready(function() {
@@ -27,11 +29,11 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-    $('#pro').click(function() {
+    $('#prod').click(function() {
         $('img#icon3').toggle();
         $('label#icon3').toggle();
         $('h5#tit3').toggle();
-        $('p#prod').toggle();
+        $('p#produ').toggle();
     });
 });
 
