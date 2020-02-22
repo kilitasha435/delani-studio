@@ -56,3 +56,8 @@
 #year{
     text-align: center;
 }
+#des,
+#produ,
+#devl{
+    display: none;
+}
