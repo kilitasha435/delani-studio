@@ -1,4 +1,4 @@
-$(document).ready(function){
+$(document).ready(function) {
     $("#tit1").hide();
     $("#tit2").hide();
     $("#tit3").hide();
@@ -10,10 +10,10 @@ $(document).ready(function){
 
 $(document).ready(function() {
     $('#design').click(function() {
-        $('img#icon1').toggle();
-        $('label#icon1').toggle();
-        $('h5#tit1').toggle();
-        $('p#des').toggle();
+        $('img#icon1').slideToggle();
+        $('label#icon1').slideToggle();
+        $('h5#tit1').slideToggle();
+        $('p#des').slideToggle();
     });
 });
 

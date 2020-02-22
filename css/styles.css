@@ -53,3 +53,6 @@
 .col-md-3 :hover{
     background-color: turquoise;
 }
+#year{
+    text-align: center;
+}
