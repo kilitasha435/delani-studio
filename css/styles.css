@@ -32,15 +32,14 @@
     background-image: url(../img/c_image.jpg);
     text-align: center;
     /* opacity: 0.5; */
+    background-size: 100%;
    
 }
 #info{ background: transparent;
     text-align: center;
 }
-#fom{
-    background: transparent;
-    opacity: 0.1;
-}
+
+
 .fort{
     text-align: center;
 }
@@ -49,4 +48,5 @@
 #name,
 #textarea{
     background: transparent;
+    text-emphasis-color: white;
 }
