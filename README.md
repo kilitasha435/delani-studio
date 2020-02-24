@@ -2,7 +2,8 @@
 * By Kevin Kipkoech Kili
 
 ## DESCRIPTION
-* Delani studio is a website that is dedicated to connecting you with world class developers to build your website. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more. 
+* Delani studio is a website that is dedicated to connecting you with world class developers to build your website. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more.
+* The live link is https://kilitasha435.github.io/delani-studio/
 
 ### PARTS
   * About us ~ Get to know of our values
